@@ -2,17 +2,18 @@
 
 ## 🚀 About Me
 
-I'm a Software Engineer with a Bachelor of Science in Computer Science from Purdue University, with over **6 years** of experience in developing software applications. 
+I'm a Software Engineer with a Bachelor of Science in Computer Science from Purdue University and have over **6 years** of experience in developing software applications. 
 
 I have expertise in building full-stack applications, working with cloud technologies, and leading engineering teams.
 
 🔭 **Currently working at:** Allied Payment Network 
 
-🌱 **Currently learning:** Using Ansible for setting up my Linux Desktop
+🌱 **Currently learning:** Using Ansible for setting up my Linux Desktop and Servers
 
 ## 🛠️ Technologies & Tools
 
 ### Languages
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -57,7 +58,7 @@ I have expertise in building full-stack applications, working with cloud technol
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)
-![Azure AD](https://img.shields.io/badge/Azure%20Active%20Directory-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure AD B2C](https://img.shields.io/badge/Azure%20Active%20Directory%20B2c-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Static Web Apps](https://img.shields.io/badge/Azure%20Static%20Web%20Apps-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 <br>
@@ -91,26 +92,76 @@ I have expertise in building full-stack applications, working with cloud technol
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Lens](https://img.shields.io/badge/Lens-FFCC00?style=for-the-badge&logo=lens&logoColor=black)
 ![Codeium](https://img.shields.io/badge/Codeium-09B6A2?style=for-the-badge&logo=codeium&logoColor=white)
-
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 ## 👨‍💻 Projects
-
 ### [EcommerceApp](https://github.com/smithhe/EcommerceApp)
+
 An e-commerce application built with Blazor WebAssembly for the frontend and FastEndpoints for the API with a MySQL database. Includes features like shopping cart functionality and user authentication.
 
+The primary purpose of this project was for personal learning. The idea being giving myself a full stack application that I handle hosting and maintaining to get practical experience in managing a "real world" web applicaiton.
+
+<details>
+    <summary>Tech Stack</summary>
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+![FastEndpoints](https://img.shields.io/badge/FastEndpoints-000000?style=for-the-badge&logo=.net&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Projects](https://img.shields.io/badge/Projects-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Managed Database](https://img.shields.io/badge/Managed%20Database-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+
+</details>
+
 ### [Charmaran App](https://github.com/Charmaran/CharmaranApp)
-This is a project I am working on the side for the Charmaran Company, the currently need an application to track employee attendance with low overhead on costs. Given these requirements I am building them a Blazor Webassembly front end using Azure Functions for the API and a serverless CosmosDB for the database.
+
+This is a project I am working on the side for the Charmaran Company, they currently need an application to track employee attendance with low overhead on costs and easy to use. 
+
+Given these requirements I am building them a Blazor Webassembly front end using Azure Functions for the API and a serverless CosmosDB for the database.
+
+<details>
+    <summary>Tech Stack</summary>
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)
+![Azure AD B2C](https://img.shields.io/badge/Azure%20Active%20Directory%20B2c-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Static Web Apps](https://img.shields.io/badge/Azure%20Static%20Web%20Apps-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+</details>
 
 ### JRPG in Godot
-A work-in-progress JRPG game using Godot for game development.
+A work-in-progress JRPG game using Godot Engine with C# for game development.
 
+<details>
+    <summary>Tech Stack</summary>
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+
+</details>
 
 ## 🏡 Homelab
 
 I maintain a homelab of Linux servers where I experiment with new technologies and work on various projects. Some key projects and tools I use in my homelab include:
 
-- **TrueNAS**: For managing and storing data securely.
-- **Docker & Kubernetes**: For containerization and orchestration of services.
+- **TrueNAS**: For managing and storing data.
+- **Portainer & Kubernetes**: For containerization and orchestration/management of services.
 - **Prometheus & Grafana**: For tracking, logging, and visualizing server performance and application metrics.
 - **Self-hosted services**: Hosting personal applications and testing deployment strategies.
 
@@ -120,10 +171,9 @@ Working with my homelab allows me to explore areas such as server management, vi
 ## 📫 Contact Me
 - [**Email**](smithhe95@protonmail.com) 
 - [**LinkedIn**](https://www.linkedin.com/in/harold-smith-463074136/)
-- **Portfolio** Coming Soon
+- **Portfolio**: Coming Soon
 
 ## 📈 GitHub Stats
-
 
 <div align="center">
 
