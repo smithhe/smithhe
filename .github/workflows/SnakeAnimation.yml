@@ -1,0 +1,31 @@
+name: 'Generate snake animation'
+
+on:
+  # Trigger the workflow on pushes to the main branch and at 4 AM UTC every day
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 4 * * *"
+
+jobs:
+  generate-svg:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Generate the SVG using the Platane/snk action
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+
+      # Commit and push the generated SVG back to the repository
+      - name: Commit and push SVG
+        run: |
+          git config --local user.name "GitHub Action"
+          git config --local user.email "action@github.com"
+          git add -A
+          git commit -m "Generated snake animation"
+          git push
