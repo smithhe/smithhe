@@ -199,5 +199,14 @@ Working with my homelab allows me to explore areas such as server management, vi
 
 </div>
 
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://smithhe.github.io/smithhe/github-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://smithhe.github.io/smithhe/github-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://smithhe.github.io/smithhe/github-snake.svg">
+    </picture>
+</div>
+
+
 
 
