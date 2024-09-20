@@ -24,6 +24,10 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            images/github-snake.svg
+            images/github-snake-dark.svg?palette=github-dark
+            images/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       # Commit and push the generated SVG back to the repository
       - name: Commit and push SVG
@@ -31,5 +35,5 @@ jobs:
           git config --local user.name "GitHub Action"
           git config --local user.email "action@github.com"
           git add -A
-          git commit -m "Generated snake animation"
+          git commit -m "Updated snake animation"
           git push
